@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klisi\\source\\repos\\Pr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4ECEE9-9469-4226-9DCA-3888772F3990}|Pr\\Pr.csproj|c:\\users\\klisi\\source\\repos\\pr\\pr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4ECEE9-9469-4226-9DCA-3888772F3990}|Pr\\Pr.csproj|solutionrelative:pr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klisi\\source\\repos\\Pr\\Pr\\Program.cs",
+              "RelativeDocumentMoniker": "Pr\\Program.cs",
+              "ToolTip": "C:\\Users\\klisi\\source\\repos\\Pr\\Pr\\Program.cs",
+              "RelativeToolTip": "Pr\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:44:21.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
